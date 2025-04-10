@@ -1,3 +1,4 @@
 pyrogram
 tgcrypto
 pyTgCalls>=0.0.3
+tgcalls==0.0.3
