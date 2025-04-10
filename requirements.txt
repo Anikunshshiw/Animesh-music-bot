@@ -1,4 +1,3 @@
-pyrogram
-tgcrypto
-pyTgCalls==0.0.5
-git+https://github.com/pytgcalls/tgcalls.git@18f62fa
+pyrogram==2.0.106
+tgcalls==0.0.3
+pytgcalls==0.0.5
